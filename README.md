@@ -9,6 +9,58 @@ Persistent world MMO sandbox social simulation game
 - Low-poly 3D graphics
 - Graphical realism and animation are a secondary concern 
 
+# Human Activities
+
+- **MRS GREN**
+- Hygiene
+  - Shower
+  - Bath
+  - Brush Teeth
+  - Deodorant
+  - 
+- Cleaning
+  - Sweeping
+  - Mopping
+  - Washing
+  - Vacuuming
+  - Polishing
+  -
+- Moving objects
+- Social
+- Basics
+  - Eating
+  - Relaxing
+  - Sleeping
+  - Urinating
+  - Defecating
+  - Copulating
+  - Exercising
+  - Reproducing
+- Reading
+- Appreciating
+- Typing
+- Watching Video
+- Listening
+  - Music
+  - Audiobook
+  - Podcast
+  - Radio
+
+
+# Household Objects
+- Hygiene
+- Cleaning
+- Clothes
+- Electronics
+- Stationary
+- Furniture
+- Small appliances
+- Kitchen appliances
+- Kitchen utensils
+- Cutlery
+- Crockery
+- 
+
 
 # Preliminary Links
 - https://mrminimal.gitlab.io/2018/07/26/godot-dedicated-server-tutorial.html
