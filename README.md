@@ -46,6 +46,34 @@ Persistent world MMO sandbox social simulation game
   - Podcast
   - Radio
 
+- Wrapping
+- Tieing
+- Playing Musical Instrument
+- Lighting
+- Turning On
+- Walking
+- Running
+- Swimming
+- Jumping
+
+
+# Health Condition
+- Hunger
+- Thirst
+- Disease
+- Disability
+- Age
+- Exhaustion
+- Sleepiness
+- Agitation
+- Anxiety
+- Depression
+- Mental Illness
+
+
+# Human Properties
+- Genetics
+
 
 # Household Objects
 - Hygiene
