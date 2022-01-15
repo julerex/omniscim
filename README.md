@@ -125,3 +125,8 @@ Persistent world MMO sandbox scientific social simulation game
 
 ## Github Links
 - https://github.com/riperiperi/FreeSO - A full reimplementation of The Sims Online, using Monogame.
+
+## Open Source Assets
+- Check itch.io
+- https://sketchfab.com/zaxel/collections/human-male-anatomy-reference
+- https://github.com/makehumancommunity/makehuman
