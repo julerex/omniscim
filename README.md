@@ -1,20 +1,52 @@
 # Omniscim
 
-Persistent world MMO sandbox scientific social simulation game
+- Open-source 
+- Persistent-world 
+- Massively-multiplayer online 
+- Sandbox 
+- Social simulation game
 
-- Open source
-- Built on Godot Engine
+
+# Game Mechanics
 - One hour in-game lasts one minute real-world
 - Game rules are reality-centric
-- Low-poly 3D graphics
-- Graphical realism and animation are a secondary concern 
 - The ability of the player to control their avatar is dependent on the avatar's emotional state, like `The Sims` but perhaps to a greater extent
 
-# Human Activities
+
+# Graphics
+- Low-poly 3D graphics
+- Graphical realism and animation are a secondary concern 
+
+
+
+# Technical
+
+- Built on Godot Engine
+
+
+# Planned Development Path
+- Start with a person in a house, with modern amenities that are puchased from "outside world"
+OR
+- Start with a person in a cave?
+
+
+# Required Research
+- How long does it take to make basic things?
+- How productive are ancient farming techniques?
+
+
+# Other Ideas
+- Once sufficiently realistic, can be used as platform for modelling and tracing human history in detail, and assessing different hypotheses
+
+
+# Preliminary Notes and Lists
+
+##  Human Activities
 
 See https://github.com/julerex/omniscim/activities.md
 
-# Human Health Condition
+
+##  Human Health Condition
 - Hunger
 - Thirst
 - Disease
@@ -32,11 +64,12 @@ See https://github.com/julerex/omniscim/activities.md
 - Anger
 - 
 
-# Human Properties
+
+## Human Properties
 - Genetics
 
 
-# Household Objects
+## Household Objects
 - Hygiene
 - Cleaning
 - Clothes
@@ -50,7 +83,10 @@ See https://github.com/julerex/omniscim/activities.md
 - Crockery
 - 
 
-# Science Simulation
+## Science Simulation
+
+See (materials.md)[https://github.com/julerex/omniscim/materials.md]
+
 - Physics
 - Chemistry
 - Biology
