@@ -8,9 +8,11 @@
 
 
 # Game Mechanics
-- One hour in-game lasts one minute real-world
+- One hour in-game lasts one minute real-time.
+- For the sake of "divide-by-60" symmetry, one game-year consists of 360 game-days.
 - Game rules are reality-centric
 - The ability of the player to control their avatar is dependent on the avatar's emotional state, like `The Sims` but perhaps to a greater extent
+
 
 
 # Graphics
